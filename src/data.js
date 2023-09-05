@@ -48,12 +48,12 @@ export const services = [
         title: 'free shuttle',
         text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
     },
-    {
-        id: 6,
-        icon: 'fas fa-beach-sun fa-fw',
-        title: 'relaxing beach',
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
-    },
+    // {
+    //     id: 6,
+    //     icon: 'fas fa-beach-sun fa-fw',
+    //     title: 'relaxing beach',
+    //     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
+    // },
 ];
 
 export const tours = [
