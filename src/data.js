@@ -36,24 +36,24 @@ export const services = [
         title: 'amazing comfort',
         text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
     },
-    // {
-    //     id: 4,
-    //     icon: 'fas fa-cocktail fa-fw',
-    //     title: 'delicious drinks',
-    //     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
-    // },
-    // {
-    //     id: 5,
-    //     icon: 'fas fa-shuttle-van fa-fw',
-    //     title: 'free shuttle',
-    //     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
-    // },
-    // {
-    //     id: 6,
-    //     icon: 'fas fa-beach-sun fa-fw',
-    //     title: 'relaxing beach',
-    //     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
-    // },
+    {
+        id: 4,
+        icon: 'fas fa-cocktail fa-fw',
+        title: 'delicious drinks',
+        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
+    },
+    {
+        id: 5,
+        icon: 'fas fa-shuttle-van fa-fw',
+        title: 'free shuttle',
+        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
+    },
+    {
+        id: 6,
+        icon: 'fas fa-beach-sun fa-fw',
+        title: 'relaxing beach',
+        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
+    },
 ];
 
 export const tours = [
