@@ -32,7 +32,7 @@ export const services = [
     },
     {
         id: 3,
-        icon: 'fas fa-socks fa-fw',
+        icon: 'fas fa-bed fa-fw',
         title: 'amazing comfort',
         text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
     },
@@ -48,12 +48,12 @@ export const services = [
         title: 'free shuttle',
         text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
     },
-    // {
-    //     id: 6,
-    //     icon: 'fas fa-beach-sun fa-fw',
-    //     title: 'relaxing beach',
-    //     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
-    // },
+    {
+        id: 6,
+        icon: 'fas fa-umbrella-beach',
+        title: 'relaxing beach',
+        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.',
+    },
 ];
 
 export const tours = [
